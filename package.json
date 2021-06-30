@@ -1,0 +1,22 @@
+{
+  "name": "learning-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluescurry/learning-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluescurry/learning-promise/issues"
+  },
+  "homepage": "https://github.com/bluescurry/learning-promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
